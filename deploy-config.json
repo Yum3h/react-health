@@ -1,0 +1,8 @@
+{
+  "name": "react-health",
+  "homepage": "https://your-github-username.github.io/react-health",
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
+  }
+}
