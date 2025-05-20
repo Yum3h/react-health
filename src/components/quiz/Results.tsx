@@ -43,13 +43,11 @@ const ScoreCircle = styled(Box)(({ theme }) => ({
 const Results: React.FC<ResultsProps> = ({
   isArabic,
   onRestart,
-  userName,
   score,
   bmi,
   feedback,
   submissionStatus,
   submissionError,
-  assessmentId,
 }) => {
   if (submissionStatus === 'pending') {
     return (
