@@ -2,7 +2,7 @@
   "name": "react-health",
   "private": true,
   "version": "1.0.0",
-  "homepage": "https://Yum3h.github.io/react-health",
+  "homepage": "https://pe101-wellness.fit",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -10,7 +10,7 @@
     "build:deploy": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "predeploy": "npm run build:deploy",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {

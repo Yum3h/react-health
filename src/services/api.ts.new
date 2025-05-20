@@ -3,7 +3,7 @@ import { answerTranslationMap } from '../utils/answerTranslations';
 
 const API_URL = import.meta.env.VITE_API_URL || 
   (process.env.NODE_ENV === 'production' 
-    ? 'https://react-health-assessment-api.onrender.com/api'  // This will be your Render.com URL
+    ? 'https://react-health-assessment-api.onrender.com/api'
     : 'http://localhost:5000/api');
 
 // Log API configuration
