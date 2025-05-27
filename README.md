@@ -1,4 +1,4 @@
-# PE101 Wellness Assessment | A health assessment tool developed for PE101 course at German Jordanian University (GJU) under the supervision of Dr. Fawwaz Al-Saqqar.
+# PE101 Wellness Assessment | A health assessment tool developed for PE101 course - SAHSS School at German Jordanian University (GJU) under the supervision of Dr. Fawwaz Al-Saqqar.
 
 A bilingual (English/Arabic) health assessment application built with React, Material-UI, and Vite. This application helps users evaluate their overall wellness across multiple health dimensions.
 
